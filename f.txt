@@ -1,4 +1,9 @@
 sorin e cel mai bun
 si eu cred in asta
 asdfa @@@@@@@@###
+<<<<<<< Updated upstream
 1234567890
+=======
+
+mai scriu si eu ceva
+>>>>>>> Stashed changes

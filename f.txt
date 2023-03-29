@@ -1,4 +1,10 @@
 sorin e cel mai bun
-si eu cred in asta
+si eu cred in asta						22224   %%%%   $$$$$$$$$$
 asdfa @@@@@@@@###
+<<<<<<< HEAD
+1234567890
+mai scriu si eu ceva
+
+=======
+>>>>>>> 289099c8f84d928eca0b33f77736afa99c28d38e
 

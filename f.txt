@@ -1,6 +1,6 @@
 sorin e cel mai bun
-si eu cred in asta						22224   %%%%
-asdfa @@@@@@@@###
+si eu cred in asta						22224   %%%%             123456
+asdfa @@@@@@@@###  
 <<<<<<< HEAD
 1234567890
 mai scriu si eu ceva

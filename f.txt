@@ -1,6 +1,11 @@
 sorin e cel mai bun
+<<<<<<< HEAD
 si eu cred in asta						22224   %%%%             123456
 asdfa @@@@@@@@###  
+=======
+si eu cred in asta						22224   %%%%   $$$$$$$$$$
+asdfa @@@@@@@@###
+>>>>>>> refs/remotes/origin/master
 <<<<<<< HEAD
 1234567890
 mai scriu si eu ceva
